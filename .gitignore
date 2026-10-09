@@ -1,0 +1,32 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Obsidian workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+secrets/
+credentials/
+
+# Local temporary files
+*.tmp
+*.temp
+
+# Sensitive enterprise material
+_private/
+_confidential/
+
+# Python AI runtime
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local environment
+.env
